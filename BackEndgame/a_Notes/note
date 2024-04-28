@@ -1,0 +1,34 @@
+***flash messages***----
+
+***intermediate mongodb***
+1.How can I perform a case-insensitive search in Mongoose?
+
+2.How do I find documents where an array field contains all of a set
+of values?
+
+3.How can I search for documents with a specific date range in
+Mongoose?
+
+4.How can I filter documents based on the existence of a field in
+Mongoose?
+
+5.How can I filter documents based on a specific field's length in
+Mongoose?
+
+-----***authentication and authorization***-----
+**installation**
+1. npm i passport passport-local passport-local-mongoose  mongoose express-session.
+2. write app.js code in app.js file and write it after view engine and before logger. 
+3. set up user.js properly.
+4. In index.js try register first and then other codes as well
+
+
+***data association***
+
+ek model se doosre model ke data ko jod dena id ke through,
+matlab ki agar aap ke paas ek user hai to wo post bnaayega
+hi, jab post banega to wo user ke dwaara hi banega, to hum
+kya karte hai jab do aise data aapas mein closely related
+hote hai to hum dono ko jod dete hai, ki ek model ke bane
+huye data ki id ko doosre model ke data ko dedete hai aur is
+model ke data ki id pichhle model ke data ko dedete hai.
