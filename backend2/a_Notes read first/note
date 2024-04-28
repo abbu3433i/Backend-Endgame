@@ -1,0 +1,38 @@
+***Express generator***
+
+1. hum logo ko kaafi saara kaam karna padta hai express
+setup krne mein iska matlab har baar jab hum naya
+project banaayege to har baar fir se utna hi kaam krna
+padega, matlab ki poora code likho and sab kuchh setup
+karo, is time ko bacha sakte ho with help of express
+generator, use express generator and it will make the
+folder structure for you and it will also write the
+basic code for the project.
+**installation**
+steps:-* npm i express-generator -g
+steps:-* express lolopopo --view=ejs
+**two changes**
+1 app.get -> router.get  
+2 npx nodemon filename -> npx nodemon
+
+
+
+***MongoDB***
+
+har naye app ka data store hoga storage mein, par usey directly rakne
+ki jagah ek container mein rakhege, us container mein sirf us app ka
+data aayega
+
+ Model(code) => collection (db)
+ schema (code) => documents (db) 
+
+1. ek app ka poora data => database.
+
+2. ek app mein variety of data hota hai par poora data hota app ka hi
+   hai, par us data ka sub category kehlaata hai "collection".
+
+3. collection matlab ki bola users ka data, ek user pe baat kri to hua
+   "document".
+
+
+
